@@ -1,0 +1,27 @@
+{
+    "name": "training-webpack",
+    "version": "1.0.0",
+    "description": "project for training webpack",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/haingocvu/training-webpack.git"
+    },
+    "keywords": [
+        "webpack",
+        "traning"
+    ],
+    "author": "haingocvu",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/haingocvu/training-webpack/issues"
+    },
+    "homepage": "https://github.com/haingocvu/training-webpack#readme",
+    "devDependencies": {
+        "webpack": "^4.12.2",
+        "webpack-cli": "^3.0.8"
+    }
+}
