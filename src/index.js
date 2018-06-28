@@ -1,4 +1,4 @@
-const sum = require("./math")
+import sum from "./math";
 
 let total = sum(2, 8);
 
