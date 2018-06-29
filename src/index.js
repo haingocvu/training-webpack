@@ -1,6 +1,3 @@
-import sum from "./math";
+import image from "./image";
 
-let total = sum(2, 8);
-
-console.log(total);
-document.write(total);
+document.body.appendChild(image);
